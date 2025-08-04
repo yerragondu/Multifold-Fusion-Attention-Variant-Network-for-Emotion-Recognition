@@ -31,4 +31,4 @@ Emotion recognition, Attention Mechanism, Cross-Spatial Fusion, Variant Embeddin
 ---
 
 ## 📚 Citation
-
+N. R. Yerragondu, C. Krishnan, J. Giddirappa and O. B. Indla, "Multifold Fusion Attention Variant for Emotion Recognition," 2025 International Conference on Computer Science and Software Engineering (CSASE), Duhok, Iraq, 2025, pp. 60-66, doi: 10.1109/CSASE63707.2025.11054013. keywords: {Emotion recognition;Accuracy;Refining;Mental health;Medical services;Brain modeling;Robustness;Artificial intelligence;Software engineering;Overfitting;Attention;Emotion;Cross-Spatial;Embedding;Multi-Variant;Fusion},
